@@ -48,6 +48,5 @@ Creating 3 columns that is equal in size looks easy at first, but when I start c
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ALAS08](https://www.frontendmentor.io/profile/ALAS08)
 
